@@ -31,13 +31,7 @@ input[type="submit"]:hover {
 }
 
 label {
-    margin-top: 10px;
-}
-
-p {
-visibility: hidden;
-    margin: 0px;
-    padding: 0px;
+    margin-top: 10px;s
 }
 
 p[id^=alert],  p.alert-checkbox{
